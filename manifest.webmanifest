@@ -1,0 +1,10 @@
+{
+  "name": "Home Wall",
+  "short_name": "Home Wall",
+  "start_url": "./",
+  "display": "standalone",
+  "orientation": "landscape",
+  "background_color": "#0f1a1b",
+  "theme_color": "#0f1a1b",
+  "icons": [{ "src": "icon-180.png", "sizes": "180x180", "type": "image/png" }]
+}
